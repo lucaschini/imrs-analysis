@@ -12,7 +12,6 @@ A análise busca identificar padrões e disparidades entre os municípios, avali
 ## 📝 Conteúdo do Repositório
 
 - `analise_imrs.ipynb` - Notebook contendo a análise exploratória dos dados.
-- `dados/` - Diretório contendo os arquivos de dados utilizados na análise.
 - `README.md` - Documento explicativo sobre o projeto.
 
 ## 📚 Fontes de Dados
